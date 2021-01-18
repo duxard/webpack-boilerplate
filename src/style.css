@@ -1,3 +1,4 @@
 .hello {
   color: red;
+  background: #fff url('./icon.png') no-repeat fixed 0;
 }
