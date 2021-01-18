@@ -1,0 +1,12 @@
+node_modules
+coverage
+
+# IntelliJ/WebStorm
+.idea/
+
+*-lock.json
+
+tests/*.js
+tests/*.js.map
+
+dist/
